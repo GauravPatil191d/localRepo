@@ -1,4 +1,4 @@
 This is me practicing how to use Git and GitHub 
 <br>
-Author
-<h1>Gaurav191d</h1>
+
+<h1><p>Author</p>Gaurav191d</h1>
