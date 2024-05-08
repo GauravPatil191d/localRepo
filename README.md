@@ -1,5 +1,7 @@
 # This is me practicing how to use Git and GitHub 
 <br>
 <br>
-<p>The author of this repo is </p>
+<br>
+<h6>Author</h6>
 <h1>Gaurav191d</h1>
+
